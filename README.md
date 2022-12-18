@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @joeapfe  Joel  Aparecido Ferreira de Oliveira 
 - 👀 I’m interested in trabalhar como Programador
 - 🌱 I’m currently learning sobre Front End
-- 💞️ I’m looking to collaborate na área assim que me for dada uma oportunidade
 - 📫 How to reach me e-mail joeapfe@gmail.com ou 11-95061-5211
 
 <!---
