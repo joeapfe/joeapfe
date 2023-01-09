@@ -1,9 +1,23 @@
-- 👋 Hi, I’m @joeapfe  Joel  Aparecido Ferreira de Oliveira 
-- 👀 I’m interested in trabalhar como Programador
-- 🌱 I’m currently learning sobre Front End
-- 📫 How to reach me e-mail joeapfe@gmail.com ou 11-95061-5211
+<div>
+  <a href="https://github.com/joeapfe">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joeapfe&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joeapfe&layout=compact&langs_count=6&theme=tokyonight"/>
+</div>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg ">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg ">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg ">
+</div>
+ 
+ <br>
+ 
+  ### Pra me contatar tenho as redes abaixo!
+ 
+<div>
+    
+  <a href = ""><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alvo ="_blank"></a>
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style= for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+ 
+  ![Animação de cobra](https://github.com/joeapfe/joeapfe/blob/output/github-contribution-grid-snake.svg)
 
-<!---
-joeapfe/joeapfe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+</div>
