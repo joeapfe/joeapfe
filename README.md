@@ -1,3 +1,7 @@
+# Bem-vindo!
+
+## Meu nome é Joel
+
 <div>
   <a href="https://github.com/joeapfe">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joeapfe&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -11,13 +15,11 @@
  
  <br>
  
-  ### Pra me contatar tenho as redes abaixo!
+  ### Para me contatar tenho as redes abaixo!
  
 <div>
     
-  <a href = ""><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alvo ="_blank"></a>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style= for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href = "joeapfe@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alvo ="_blank"></a>
+  <a href="https://www.linkedin.com/in/joel-aparecido-ferreira-de-oliveira-205379234/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style= for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  
-  ![Animação de cobra](https://github.com/joeapfe/joeapfe/blob/output/github-contribution-grid-snake.svg)
-
-</div>
+ </div>
