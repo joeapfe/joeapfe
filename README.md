@@ -1,6 +1,6 @@
-# Bem-vindo!
+# Bem-vindo! ao perfil de Joel Ferreira!!
 
-## Meu nome é Joel
+## Estudando Front-End!🤓️
 
 <div>
   <a href="https://github.com/joeapfe">
@@ -19,7 +19,7 @@
  
 <div>
     
-  <a href = "joeapfe@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alvo ="_blank"></a>
+  <a href = " mailto:joeapfe@gmail.com "><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alvo ="_blank"></a>
   <a href="https://www.linkedin.com/in/joel-aparecido-ferreira-de-oliveira-205379234/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style= for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  
  </div>
